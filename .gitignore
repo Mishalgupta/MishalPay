@@ -1,0 +1,6 @@
+node_modules
+.firebase
+build
+Contact.js
+firebase.json
+.firebaserc
